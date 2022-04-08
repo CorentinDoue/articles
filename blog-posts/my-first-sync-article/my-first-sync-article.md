@@ -23,7 +23,6 @@ interface A {
   hello: string;
   toto: number;
 }
-
 ```
 
 # Found a typo?
