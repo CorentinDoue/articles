@@ -21,6 +21,7 @@ You can also take advantage of [embedme](https://github.com/zakhenry/embedme) to
 
 interface A {
   hello: string;
+  toto: number;
 }
 ```
 
