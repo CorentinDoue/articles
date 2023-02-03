@@ -1,6 +1,14 @@
 [
   {
-    "id": 1049014,
-    "relativePathToArticle": "./blog-posts/my-first-sync-article/my-first-sync-article.md"
+    "id": 955124,
+    "relativePathToArticle": "./blog-posts/how-to-integration-tests/readme.md"
+  },
+  {
+    "id": 1009717,
+    "relativePathToArticle": "./blog-posts/integration-test-ci/readme.md"
+  },
+  {
+    "id": 1027182,
+    "relativePathToArticle": "./blog-posts/stop-using-a-local-environment/readme.md"
   }
 ]
