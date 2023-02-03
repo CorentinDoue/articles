@@ -10,5 +10,9 @@
   {
     "id": 1027182,
     "relativePathToArticle": "./blog-posts/stop-using-a-local-environment/readme.md"
+  },
+  {
+    "id": 1352391,
+    "relativePathToArticle": "./blog-posts/integration-tests-control-points/readme.md"
   }
 ]
