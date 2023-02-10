@@ -10,9 +10,11 @@ canonical_url:
 
 Running integration tests in a CI can be quite challenging. It's even more challenging with serverless applications because they interact with lots of services.
 
-In a previous article I explained how to test your serverless app in integration with real AWS services.
+In previous articles I explained how to test your serverless app in integration with real AWS services.
 
 {% embed https://dev.to/kumo/how-to-write-integration-tests-on-your-aws-nodejs-serverless-application-4hgd %}
+
+{% embed https://dev.to/kumo/5-control-points-to-implement-serverless-integration-tests-like-a-boss-82b %}
 
 This article describes one way to implement the logical next step: running those integration tests in your CI for each feature branch of your team as fast as possible.
 

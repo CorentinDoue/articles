@@ -14,6 +14,10 @@ This article is a step-by-step guide to adding integration tests to your serverl
 
 All examples are written in [Typescript](https://www.typescriptlang.org/), using [Jest](https://jestjs.io/) testing engine, on an [AWS](https://aws.amazon.com/) serverless stack. They can easily be used in javascript projects. Core concepts also apply to other languages, test frameworks, and cloud providers.
 
+**Update february 2023**: I also wrote a technology-agnostic checklist to help implement your own integration tests according to your context. Check it out.
+
+{% embed https://dev.to/kumo/5-control-points-to-implement-serverless-integration-tests-like-a-boss-82b %}
+
 ## TL;DR
 
 This article uses a simple serverless application as example.
