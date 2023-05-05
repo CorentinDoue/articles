@@ -14,5 +14,9 @@
   {
     "id": 1352391,
     "relativePathToArticle": "./blog-posts/integration-tests-control-points/readme.md"
+  },
+  {
+    "id": 1458700,
+    "relativePathToArticle": "./blog-posts/lambda-extensions/readme.md"
   }
 ]
