@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Stop using a local environment to develop Serverless applicationss'
+title: 'Stop using a local environment to develop Serverless applications'
 cover_image:
 description:
 tags: aws, serverless, devops
