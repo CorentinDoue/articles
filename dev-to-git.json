@@ -18,5 +18,9 @@
   {
     "id": 1458700,
     "relativePathToArticle": "./blog-posts/lambda-extensions/readme.md"
+  },
+  {
+    "id": 1712667,
+    "relativePathToArticle": "./blog-posts/eslint-disable-inserter/readme.md"
   }
 ]
