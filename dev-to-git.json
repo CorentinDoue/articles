@@ -22,5 +22,9 @@
   {
     "id": 1712667,
     "relativePathToArticle": "./blog-posts/eslint-disable-inserter/readme.md"
+  },
+  {
+    "id": 1864159,
+    "relativePathToArticle": "./blog-posts/swarmion-sqs-contract/readme.md"
   }
 ]
