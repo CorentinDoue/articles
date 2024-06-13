@@ -14,5 +14,17 @@
   {
     "id": 1352391,
     "relativePathToArticle": "./blog-posts/integration-tests-control-points/readme.md"
+  },
+  {
+    "id": 1458700,
+    "relativePathToArticle": "./blog-posts/lambda-extensions/readme.md"
+  },
+  {
+    "id": 1712667,
+    "relativePathToArticle": "./blog-posts/eslint-disable-inserter/readme.md"
+  },
+  {
+    "id": 1864159,
+    "relativePathToArticle": "./blog-posts/swarmion-sqs-contract/readme.md"
   }
 ]
